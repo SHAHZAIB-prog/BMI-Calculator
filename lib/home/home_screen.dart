@@ -238,7 +238,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       shape: const CircleBorder(),
                       textColor: kPrimaryColor,
                       child: Icon(
-                        !showResult ? Icons.trending_flat : Icons.refresh,
+                        !showResult ? Icons.forward_rounded : Icons.backspace,
                         size: 48.0,
                       ),
                     ),
