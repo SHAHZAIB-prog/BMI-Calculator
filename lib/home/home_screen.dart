@@ -228,7 +228,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       ],
                     ),
                     child: FlatButton(
-                      color: Colors.white,
+                      color: Color(0xFFEECDA3),
                       onPressed: () {
                         setState(() {
                           showResult = !showResult;
