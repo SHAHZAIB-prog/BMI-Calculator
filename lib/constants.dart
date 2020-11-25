@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
 // Colors
-const Color kPrimaryColor = Color(0xFFCA4F5D);
+const Color kPrimaryColor = Color(0xFF141E30);
 const Color kActiveButtonBgColor = Colors.white;
-const Color kActiveButtonTextColor = Color(0xFFCA4F5D);
-final Color kInactiveButtonBgColor = const Color(0xFFF6CFD5).withOpacity(0.5);
-final Color kInactiveButtonTextColor = Colors.white.withOpacity(0.7);
+const Color kActiveButtonTextColor = Color(0xFF141E30);
+final Color kInactiveButtonBgColor = const Color(0xFFC4E0E5).withOpacity(0.5);
+final Color kInactiveButtonTextColor = Colors.white;
 const List<Color> kContainerGradientColors = <Color>[
   Color(0xFF000428),
   Color(0xFF004E92),

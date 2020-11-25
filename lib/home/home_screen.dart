@@ -95,6 +95,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         style: const TextStyle(
                           color: Colors.white,
                           fontWeight: FontWeight.bold,
+                          fontSize: 20
                         ),
                       ),
                     ),
@@ -129,6 +130,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         style: const TextStyle(
                           color: Colors.white,
                           fontWeight: FontWeight.bold,
+                          fontSize: 20
                         ),
                       ),
                     ),
@@ -158,6 +160,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         style: const TextStyle(
                           color: Colors.white,
                           fontWeight: FontWeight.bold,
+                          fontSize: 20
                         ),
                       ),
                     ),
