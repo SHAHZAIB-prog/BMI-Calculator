@@ -194,14 +194,14 @@ class _HomeScreenState extends State<HomeScreen> {
                   height: 190.0,
                   width: double.infinity,
                   child: const CustomPaint(
-                    painter: CurvePainter(color: Color(0xFFEE7583), pathNo: 3),
+                    painter: CurvePainter(color: Color(0xFFB06AB3), pathNo: 3),
                   ),
                 ),
                 Container(
                   height: 220.0,
                   width: double.infinity,
                   child: const CustomPaint(
-                    painter: CurvePainter(color: Color(0xFFF6ABB2), pathNo: 2),
+                    painter: CurvePainter(color: Color(0xFFB06AB3), pathNo: 2),
                   ),
                 ),
                 Container(
