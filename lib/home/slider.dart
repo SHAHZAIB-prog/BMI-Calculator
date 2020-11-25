@@ -43,8 +43,8 @@ class _CustomSliderThumbCircle extends SliderComponentShape {
     final TextSpan span = TextSpan(
       style: TextStyle(
         fontSize: thumbRadius * .75,
-        fontWeight: FontWeight.w500,
-        color: const Color(0xFFCA4F5D),
+        fontWeight: FontWeight.w800,
+        color: const Color(0xFF614385),
       ),
       text: getValue(value),
     );
