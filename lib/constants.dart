@@ -7,8 +7,8 @@ const Color kActiveButtonTextColor = Color(0xFFCA4F5D);
 final Color kInactiveButtonBgColor = const Color(0xFFF6CFD5).withOpacity(0.5);
 final Color kInactiveButtonTextColor = Colors.white.withOpacity(0.7);
 const List<Color> kContainerGradientColors = <Color>[
-  Color(0xFFEA6B5D),
-  Color(0xFFE95263),
+  Color(0xFF000428),
+  Color(0xFF004E92),
 ];
 
 // Decorations
@@ -21,7 +21,7 @@ const BoxDecoration kMainContainerDecoration = BoxDecoration(
 );
 
 const TextStyle kAppBarTextStyle = TextStyle(
-  color: Color(0xFFCA4F5D),
+  color: Color(0xFF141E30),
   fontSize: 22.0,
   fontWeight: FontWeight.w900,
 );
