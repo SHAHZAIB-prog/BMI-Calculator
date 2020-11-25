@@ -86,10 +86,10 @@ class _HomeScreenState extends State<HomeScreen> {
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
-                      // Image(
-                      //   image: AssetImage('assets/images/BMI.png'),
-                      //   height: 100,
-                      // ),
+                      Image(
+                        image: AssetImage('assets/images/BMI.png'),
+                        height: 80,
+                      ),
                       Padding(
                         padding: const EdgeInsets.only(
                           top: 20.0,
